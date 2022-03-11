@@ -6,7 +6,7 @@ accounts:
   - name: carlos
     coins: ["5000000000000cgas"]
 validator:
-  name: alice
+  name: austin
   staked: "10000000cgas"
 client:
   openapi:
@@ -24,7 +24,7 @@ faucet:
 #  grpc: ":9090"
 #  api: ":1318"
 genesis:
-  chain_id: "chronic-grapes"
+  chain_id: "athena-1"
   app_state:
     staking:
       params:
