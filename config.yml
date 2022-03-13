@@ -1,8 +1,8 @@
 accounts:
   - name: alex
-    coins: ["1850000000000000ucht"]
+    coins: ["100000000000ucht,200000000000ucgas"]
   - name: austin
-    coins: ["185000000000000ucht"]
+    coins: ["100000000000ucht,200000000000ucgas"]
 validator:
   name: austin
   staked: "10000000ucht"
